@@ -1,0 +1,16 @@
+There were 93 participants in total. 
+There were 57 participants in Experiment A (Lincoln). 
+There were 36 participants in Experiment B (UCL). 
+The number of participants per date was as follows: 
+04062013: 17
+05062013: 5
+06062013: 7
+07062013: 1
+10062013: 11
+11062013: 9
+12062013: 20
+13062013: 13
+14062013: 5
+17062013: 3
+18062013: 1
+25062013: 1
